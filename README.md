@@ -11,6 +11,12 @@ CRUD (Create, Read, Update, Delete) User.
 |login| String |
 |password| String|
 
+## Requirements
+
+ - [JDK](https://www.oracle.com/br/java/technologies/downloads/)  17 or major
+ - [Maven](https://maven.apache.org/) 
+ - IDE as [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/#section=linux), [Eclipse](https://www.eclipse.org/downloads/), [STS](https://spring.io/tools)
+
 ## Built with
 
  - Java 17 LTS
