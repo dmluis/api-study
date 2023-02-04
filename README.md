@@ -1,7 +1,16 @@
 # Api-Study
 
-Simple Api Rest to study.
+## Overview
 
+- [About](#about)
+- [Requirements](#requirements)
+- [Built with](#built-with)
+- [How to excute](#how-to-execute)
+- [Author](#author)
+
+## About
+
+Simple Api Rest to study.
 CRUD (Create, Read, Update, Delete) User.
 
 |User |Type|
@@ -23,6 +32,14 @@ CRUD (Create, Read, Update, Delete) User.
  - Spring Boot
  - H2 Database
  - JPA
+
+## How to execute
+
+Open your terminal and type:
+
+```
+mvn spring-boot:run 
+```
 
 ## Author
 
