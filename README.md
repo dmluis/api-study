@@ -32,6 +32,7 @@ CRUD (Create, Read, Update, Delete) User.
  - Spring Boot
  - H2 Database
  - JPA
+ - Maven
 
 ## How to execute
 
